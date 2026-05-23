@@ -1,0 +1,11 @@
+dowhy>=0.10
+econml>=0.15
+pywhy-graphs>=0.1
+torch>=2.0
+numpy>=1.24
+pandas>=2.0
+geopandas>=0.14
+rasterio>=1.3
+scikit-learn>=1.3
+networkx>=3.0
+matplotlib>=3.7
